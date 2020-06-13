@@ -1,6 +1,10 @@
 {
   "name": "virtual_room",
   "version": "1.0.0",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^2.3.0"
+  }
   "description": "The educational video system",
   "main": "index.js",
   "scripts": {
@@ -8,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"\""
+    "url": "https://github.com/Raja-dev/Virtual-Room.git"
   },
   "keywords": [
     "[]"
